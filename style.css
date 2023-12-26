@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.backgroundnav{
+    background-color: #30009C!important;
+}
+.backgroundnav1{
+background-color: #0004ee;
+}
+.backgroundnav1 i{
+    font-size: 10px;
+}
+
+.backgroundcolorsec1{
+    width: 100%;
+    height: auto;
+        background-image: linear-gradient(to right, #6200EE , #30009C);
+   
+}
+
+.icons{
+    margin-top: -40px;
+height: 140px;
+z-index: 2;
+}
+i{
+    font-size: 80px;
+}
+
+.background{
+    background-color: white;
+}
+
+.address i{
+    font-size: 20px;
+}
+
+address a {
+    text-decoration: none;
+    color: black;
+}
+.newbutton{
+    background-color: blueviolet!important;
+}
