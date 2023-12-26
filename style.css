@@ -1,8 +1,4 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-}
+
 
 .backgroundnav{
     background-color: #30009C!important;
@@ -44,4 +40,11 @@ address a {
 }
 .newbutton{
     background-color: blueviolet!important;
+}
+.widthfor{
+    width: 400px!important;
+
+}
+.imagenew{
+    width: 100%;
 }
